@@ -8,9 +8,6 @@ Este é um trabalho para a aula de Qualidade e Teste de Software. O objetivo é 
 
 3. **Gerar um Javadoc**: Javadoc é uma ferramenta de documentação da Oracle para geração de documentação de API em formato HTML a partir de comentários no código-fonte Java. Para este projeto, um Javadoc foi gerado para documentar os métodos do código.
 
-Espero que isso esclareça o trabalho a ser realizado. Se você tiver mais perguntas, fique à vontade para perguntar!
-
-
 ## Ferramentas usadas
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-0D1117?style=for-the-badge&logo=intellij-idea&logoColor=white)
